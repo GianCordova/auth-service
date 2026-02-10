@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace AuthService.Domain.Entities
+namespace AuthService.Domain.Entities;
 
 public class Role
 {

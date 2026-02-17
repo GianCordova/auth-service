@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b+1F+OadbVc=",
+  "dgSpecHash": "wjftQn67JMY=",
   "success": true,
-  "projectFilePath": "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj",
+  "projectFilePath": "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Informatica\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
     "C:\\Users\\Informatica\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.2\\microsoft.extensions.configuration.10.0.2.nupkg.sha512",

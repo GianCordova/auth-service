@@ -28,7 +28,7 @@ public class User
     [MinLength(255)]
     public string Password { get; set; } = string.Empty;
 
-    public string Status { get; set; } = true;
+    public bool Status { get; set; } = false;
 
     [Required]
     public DateTime CreatedAt { get; set; }

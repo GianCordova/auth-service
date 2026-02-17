@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-usgin System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace AuthService.Domain.Entities;
 
@@ -14,9 +14,9 @@ public class UserProfile
     [ForeignKey(nameof(User))] // Llave foranea hacia la entidad User
     public string UserId { get; set; } = string.Empty;
 
-    public string ProfilePictureUrl { get; set; }
+    public string ProfilePictureUrl { get; set; } = null!;
     public string Bio { get; set; }
-    public DateTime DateOfBirth { get; set; }
+    public DateTime DateOfBirth { get; set; } 
 
     public User User { get; set; } = null!;
 }

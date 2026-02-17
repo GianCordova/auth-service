@@ -1,39 +1,83 @@
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\appsettings.Development.json
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\appsettings.json
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.exe
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.deps.json
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.runtimeconfig.json
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.pdb
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Application.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Domain.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Persistence.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Application.pdb
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Persistence.pdb
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Domain.pdb
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.AssemblyReference.cache
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfoInputs.cache
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfo.cs
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.CoreCompileInputs.cache
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets.build.json
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets.development.json
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.AuthService.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthService.Api.props
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthService.Api.props
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthService.Api.props
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\scopedcss\bundle\AuthService.Api.styles.css
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthServ.C02AB606.Up2Date
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\refint\AuthService.Api.dll
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.pdb
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.genruntimeconfig.cache
-C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\ref\AuthService.Api.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\appsettings.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.exe
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.deps.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.runtimeconfig.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Api.pdb
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\EFCore.NamingConventions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\NetEscapades.AspNetCore.SecurityHeaders.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Npgsql.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\System.Text.Json.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Application.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Domain.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Persistence.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Application.pdb
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Persistence.pdb
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.AssemblyReference.cache
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfoInputs.cache
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfo.cs
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.CoreCompileInputs.cache
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.sourcelink.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.AuthService.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthService.Api.props
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthService.Api.props
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthService.Api.props
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\scopedcss\bundle\AuthService.Api.styles.css
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthServ.C02AB606.Up2Date
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\refint\AuthService.Api.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.pdb
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\AuthService.Api.genruntimeconfig.cache
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\obj\Debug\net8.0\ref\AuthService.Api.dll

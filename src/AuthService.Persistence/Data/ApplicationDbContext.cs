@@ -13,11 +13,11 @@ public class ApplicationDbContext : DbContext
 
     //Representacion de trabblas en el modelo 
     //(Cada uno es una tabla en la base de datos)
-    public DbSet<User> User { get; set; }
-    public DbSet<UserProfile> UserProfile { get; set; }
-    public DbSet<Role> Role { get; set; }
-    public DbSet<UserRole> UserRole { get; set; }
-    public DbSet<UserEmail> UserEmail { get; set; }
+    public DbSet<User> Users { get; set; }
+    public DbSet<UserProfile> UserProfiles { get; set; }
+    public DbSet<Role> Roles { get; set; }
+    public DbSet<UserRole> UserRoles { get; set; }
+    public DbSet<UserEmail> UserEmails { get; set; }
     public DbSet<UserPasswordReset> UserPasswordReset { get; set; }
 
     

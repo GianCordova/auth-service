@@ -14,7 +14,7 @@ public class UserProfile
     [ForeignKey(nameof(User))] // Llave foranea hacia la entidad User
     public string UserId { get; set; } = string.Empty;
 
-    public string ProfilePictureUrl { get; set; } = null!;
+    public string ProfilePictureUrl { get; set; } = string.Empty;
     public string Bio { get; set; } = string.Empty;
     public DateTime DateOfBirth { get; set; } 
 

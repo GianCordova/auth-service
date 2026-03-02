@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuthService.Persistence
-build_property.ProjectDir = C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Persistence\
+build_property.ProjectDir = C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Persistence\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

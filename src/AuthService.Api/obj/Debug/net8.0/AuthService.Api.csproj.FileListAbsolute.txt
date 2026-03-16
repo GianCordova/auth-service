@@ -310,3 +310,5 @@ C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-
 C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Argon2.dll
 C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Konscious.Security.Cryptography.Blake2.dll
+C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\CloudinaryDotNet.dll
+C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Api\bin\Debug\net8.0\Newtonsoft.Json.dll

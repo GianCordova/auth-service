@@ -32,7 +32,7 @@ public class RoleRepository : IRoleRepository
     }
 
     // Ajustado para que reciba roleId y devuelva la lista correctamente
-    public async Task<IReadOnlyList<User>> GetUserByRoleAsync(string roleId)
+    public async Task<IReadOnlyList<User>> GetUsersByRoleAsync(string roleId)
     {
         var users = await _context.UserRoles
             .Where(ur => ur.RoleId == roleId)
@@ -47,7 +47,7 @@ public class RoleRepository : IRoleRepository
     }
 
     // Corregido el nombre: GetUserRoleNameAsync (sin la 's' al final de Name)
-    public async Task<IReadOnlyList<string>> GetUserRoleNameAsync(string userId)
+    public async Task<IReadOnlyList<string>> GetUserRoleNamesAsync(string userId)
     {
         var roles = await _context.UserRoles
             .Where(ur => ur.UserId == userId)

@@ -7128,11 +7128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Api\\AuthService.Api.csproj",
+      "projectUniqueName": "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Api\\AuthService.Api.csproj",
       "projectName": "AuthService.Api",
-      "projectPath": "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Api\\AuthService.Api.csproj",
+      "projectPath": "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Api\\AuthService.Api.csproj",
       "packagesPath": "C:\\Users\\Informatica\\.nuget\\packages\\",
-      "outputPath": "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Api\\obj\\",
+      "outputPath": "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Informatica\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7147,11 +7147,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj": {
-              "projectPath": "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj"
+            "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj": {
+              "projectPath": "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj"
             },
-            "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Persistence\\AuthService.Persistence.csproj": {
-              "projectPath": "C:\\Giancarlo Cordova - 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Persistence\\AuthService.Persistence.csproj"
+            "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Persistence\\AuthService.Persistence.csproj": {
+              "projectPath": "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Persistence\\AuthService.Persistence.csproj"
             }
           }
         }
@@ -7215,7 +7215,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.416/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Informatica\\AppData\\Local\\Microsoft\\dotnet\\sdk\\8.0.418/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

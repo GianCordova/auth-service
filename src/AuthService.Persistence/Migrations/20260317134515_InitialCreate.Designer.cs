@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace AuthService.Persistence.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260223171137_InitialCreate")]
+    [Migration("20260317134515_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -200,6 +200,11 @@ namespace AuthService.Persistence.Migrations
                     b.Property<DateTime>("DateOfBirth")
                         .HasColumnType("timestamp with time zone")
                         .HasColumnName("date_of_birth");
+
+                    b.Property<string>("Phone")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("phone");
 
                     b.Property<string>("ProfilePictureUrl")
                         .IsRequired()

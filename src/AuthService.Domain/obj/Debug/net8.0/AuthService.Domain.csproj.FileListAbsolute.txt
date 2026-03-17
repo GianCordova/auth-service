@@ -10,3 +10,15 @@ C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-
 C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
 C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
 C:\Giancarlo Cordova - 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.deps.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\bin\Debug\net8.0\AuthService.Domain.pdb
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfoInputs.cache
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.AssemblyInfo.cs
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.csproj.CoreCompileInputs.cache
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.sourcelink.json
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\refint\AuthService.Domain.dll
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\AuthService.Domain.pdb
+C:\GiancarloCordova 2024016\proyecto-kinalSports\authentication-service\auth-service\src\AuthService.Domain\obj\Debug\net8.0\ref\AuthService.Domain.dll

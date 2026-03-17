@@ -279,30 +279,16 @@ public class AuthService(
         public async Task<EmailResponseDto> ResendVerificationEmailAsync(ResendVerificationDto resendDto)
     {
         var user = await userRepository.GetByEmailAsync(resendDto.Email);
-        if (user == null || user.UserEmail == null)
-        {
-            return new EmailResponseDto
-            {
-                Success = false,
-                Message = "Usuario no encontrado",
-                Data = new { email = resendDto.Email, sent = false }
-            };
-        }
+    if (user == null) return new EmailResponseDto { Success = false, Message = "Usuario no encontrado" };
 
-        if (user.UserEmail.EmailVerified)
-        {
-            return new EmailResponseDto
-            {
-                Success = false,
-                Message = "El email ya ha sido verificado",
-                Data = new { email = user.Email, verified = true }
-            };
-        }
+    // Si ya está verificado, no reenviar
+    if (user.UserEmail?.EmailVerified == true)
+        return new EmailResponseDto { Success = false, Message = "El email ya está verificado" };
 
-        // Generar nuevo token
-        var newToken = TokenGenerator.GenerateEmailVerificationToken();
-        user.UserEmail.EmailVerificationToken = newToken;
-        user.UserEmail.EmailVerificationTokenExpiry = DateTime.UtcNow.AddHours(24);
+    // GENERAR NUEVO TOKEN (Aquí no importa si el viejo expiró)
+    var newToken = TokenGenerator.GenerateEmailVerificationToken();
+    user.UserEmail.EmailVerificationToken = newToken;
+    user.UserEmail.EmailVerificationTokenExpiry = DateTime.UtcNow.AddHours(24);
 
         await userRepository.UpdateAsync(user);
 

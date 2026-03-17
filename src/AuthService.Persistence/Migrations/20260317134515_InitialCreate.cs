@@ -92,6 +92,7 @@ namespace AuthService.Persistence.Migrations
                     id = table.Column<string>(type: "character varying(16)", maxLength: 16, nullable: false),
                     user_id = table.Column<string>(type: "character varying(16)", maxLength: 16, nullable: false),
                     profile_picture_url = table.Column<string>(type: "text", nullable: false),
+                    phone = table.Column<string>(type: "text", nullable: false),
                     bio = table.Column<string>(type: "text", nullable: false),
                     date_of_birth = table.Column<DateTime>(type: "timestamp with time zone", nullable: false)
                 },

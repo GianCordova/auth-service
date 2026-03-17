@@ -198,6 +198,11 @@ namespace AuthService.Persistence.Migrations
                         .HasColumnType("timestamp with time zone")
                         .HasColumnName("date_of_birth");
 
+                    b.Property<string>("Phone")
+                        .IsRequired()
+                        .HasColumnType("text")
+                        .HasColumnName("phone");
+
                     b.Property<string>("ProfilePictureUrl")
                         .IsRequired()
                         .HasColumnType("text")

@@ -6,7 +6,7 @@ namespace AuthService.Application.Services;
 
 public static class UuidGenerator
 {
-    private const string Alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    private const string Alphabet = "123456789ABCDEFGHJKMNPQRSTUVWXYZabcdefghijkmnpqrstuvwxyz";
 
     public static string GenerateShortUUID()
     {

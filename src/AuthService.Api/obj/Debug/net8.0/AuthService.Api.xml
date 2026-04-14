@@ -6,30 +6,61 @@
     <members>
         <member name="M:AuthService.Api.Controllers.AuthController.GetProfile">
             <summary>
-            Descripcion de la ruta
+            Obtiene la información del perfil del usuario autenticado mediante el token JWT.
             </summary>
-            <returns></returns>
+            <returns>Retorna los datos del usuario si el token es válido.</returns>
+            <response code="200">Retorna el perfil del usuario.</response>
+            <response code="401">Si el usuario no está autenticado o el token es inválido.</response>
+            <response code="404">Si el usuario no existe en la base de datos.</response>
         </member>
         <member name="M:AuthService.Api.Controllers.AuthController.GetProfileById(AuthService.Application.DTOs.GetProfileByIdDto)">
             <summary>
-            
+            Obtiene el perfil de un usuario específico mediante su ID.
             </summary>
-            <param name="request">Informacion de la ruta</param>
-            <returns></returns>
+            <param name="request">DTO que contiene el ID del usuario a consultar.</param>
+            <returns>Objeto con la información del usuario solicitado.</returns>
         </member>
         <member name="M:AuthService.Api.Controllers.AuthController.Register(AuthService.Application.DTOs.RegisterDto)">
             <summary>
-            Registra un nuevo usuario en el sistema
+            Registra un nuevo usuario en el sistema con soporte para carga de archivos (avatar).
             </summary>
-            <param name="Name">Nombre del usuario</param>
-            <returns></returns>
+            <param name="registerDto">Datos de registro del usuario (incluye nombre, email, password y foto).</param>
+            <returns>Resultado del proceso de registro.</returns>
         </member>
         <member name="M:AuthService.Api.Controllers.AuthController.Login(AuthService.Application.DTOs.LoginDto)">
             <summary>
-            
+            Inicia sesión en el sistema para obtener un token de acceso JWT.
             </summary>
-            <param name="LoginDto"></param>
-            <returns></returns>
+            <param name="loginDto">Credenciales de acceso (Email y Password).</param>
+            <returns>Token JWT e información básica del usuario.</returns>
+        </member>
+        <member name="M:AuthService.Api.Controllers.AuthController.VerifyEmail(AuthService.Application.DTOs.Email.VerifyEmailDto)">
+            <summary>
+            Verifica la cuenta de un usuario mediante un token enviado por correo electrónico.
+            </summary>
+            <param name="verifyEmailDto">Token de verificación y correo electrónico.</param>
+            <returns>Resultado de la verificación.</returns>
+        </member>
+        <member name="M:AuthService.Api.Controllers.AuthController.ResendVerification(AuthService.Application.DTOs.Email.ResendVerificationDto)">
+            <summary>
+            Reenvía el correo electrónico con el código de verificación de cuenta.
+            </summary>
+            <param name="resendDto">Correo electrónico del usuario.</param>
+            <returns>Estado del envío del correo.</returns>
+        </member>
+        <member name="M:AuthService.Api.Controllers.AuthController.ForgotPassword(AuthService.Application.DTOs.Email.ForgotPasswordDto)">
+            <summary>
+            Solicita un restablecimiento de contraseña enviando un token al correo del usuario.
+            </summary>
+            <param name="forgotPasswordDto">Correo electrónico del usuario que olvidó su clave.</param>
+            <returns>Respuesta de confirmación del proceso.</returns>
+        </member>
+        <member name="M:AuthService.Api.Controllers.AuthController.ResetPassword(AuthService.Application.DTOs.Email.ResetPasswordDto)">
+            <summary>
+            Establece una nueva contraseña utilizando el token de restablecimiento recibido.
+            </summary>
+            <param name="resetPasswordDto">Token, nueva contraseña y confirmación.</param>
+            <returns>Resultado del cambio de contraseña.</returns>
         </member>
     </members>
 </doc>

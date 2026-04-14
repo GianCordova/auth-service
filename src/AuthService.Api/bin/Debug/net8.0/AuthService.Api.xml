@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AuthService.Api</name>
+    </assembly>
+    <members>
+        <member name="M:AuthService.Api.Controllers.AuthController.GetProfile">
+            <summary>
+            Descripcion de la ruta
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:AuthService.Api.Controllers.AuthController.GetProfileById(AuthService.Application.DTOs.GetProfileByIdDto)">
+            <summary>
+            
+            </summary>
+            <param name="request">Informacion de la ruta</param>
+            <returns></returns>
+        </member>
+        <member name="M:AuthService.Api.Controllers.AuthController.Register(AuthService.Application.DTOs.RegisterDto)">
+            <summary>
+            Registra un nuevo usuario en el sistema
+            </summary>
+            <param name="Name">Nombre del usuario</param>
+            <returns></returns>
+        </member>
+        <member name="M:AuthService.Api.Controllers.AuthController.Login(AuthService.Application.DTOs.LoginDto)">
+            <summary>
+            
+            </summary>
+            <param name="LoginDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

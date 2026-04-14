@@ -12,6 +12,10 @@ namespace AuthService.Api.Controllers;
 [Route("api/v1/[controller]")]
 public class AuthController(IAuthService authService) : ControllerBase
 {
+    /// <summary>
+    /// Descripcion de la ruta
+    /// </summary>
+    /// <returns></returns>
 	[HttpGet("profile")]
     [Authorize]
     public async Task<ActionResult<object>> GetProfile()
@@ -35,6 +39,11 @@ public class AuthController(IAuthService authService) : ControllerBase
         });
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="request">Informacion de la ruta</param>
+    /// <returns></returns>
         [HttpPost("profile/by-id")]
     [EnableRateLimiting("ApiPolicy")]
     public async Task<ActionResult<object>> GetProfileById([FromBody] GetProfileByIdDto request)
@@ -66,6 +75,11 @@ public class AuthController(IAuthService authService) : ControllerBase
         });
     }
 
+    /// <summary>
+    /// Registra un nuevo usuario en el sistema
+    /// </summary>
+    /// <param name="Name">Nombre del usuario</param>
+    /// <returns></returns>
         [HttpPost("register")]
     [RequestSizeLimit(10 * 1024 * 1024)] // 10MB límite
     [EnableRateLimiting("AuthPolicy")]
@@ -75,6 +89,12 @@ public class AuthController(IAuthService authService) : ControllerBase
         // Devolver 201 Created para registro
         return StatusCode(201, result);
     }
+
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="LoginDto"></param>
+    /// <returns></returns>
 
         [HttpPost("login")]
     [EnableRateLimiting("AuthPolicy")]

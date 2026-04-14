@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JkY8LIQi7ZI=",
+  "dgSpecHash": "029UQ6WGJ8A=",
   "success": true,
-  "projectFilePath": "C:\\GiancarloCordova 2024016\\proyecto-kinalSports\\authentication-service\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj",
+  "projectFilePath": "C:\\auth-services\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Informatica\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\Informatica\\.nuget\\packages\\cloudinarydotnet\\1.28.0\\cloudinarydotnet.1.28.0.nupkg.sha512",
@@ -82,8 +82,10 @@
     {
       "code": "NU1902",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "El paquete \"MimeKit\" 4.15.0 tiene una vulnerabilidad de gravedad moderada conocida, https://github.com/advisories/GHSA-g7hc-96xr-gvvx",
+      "projectPath": "C:\\auth-services\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\auth-services\\auth-service\\src\\AuthService.Application\\AuthService.Application.csproj",
       "libraryId": "MimeKit",
       "targetGraphs": [
         "net8.0"
